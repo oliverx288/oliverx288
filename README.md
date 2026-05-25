@@ -27,6 +27,4 @@ Azure AZ-900 certified.
 Built with HTML, CSS and JavaScript. Focused on clean UI and realistic case scenarios.
 
 
-## 📬 Contact
 
-[LinkedIn](https://linkedin.com/in/irene-oliver-oliver)
