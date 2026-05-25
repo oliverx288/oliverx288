@@ -1,10 +1,13 @@
 # Hola, I'm Irene!
 
-Barcelona-based dev student. Powered by good coffee and questionable commit messages
+Barcelona-based. Studying DAW and Computer Engineering at the same time, which is exactly as chaotic as it sounds.
 
-Student of Web Application Development & Computer Engineering.
-Currently building things with Java, SQL, HTML/CSS and Git.
-Azure AZ-900 certified.
+By day I work in IT support at a healthtech startup, mostly making sure things get to the right people, bugs get documented properly and nothing gets lost between the support team and the developers.
+
+Before tech I spent 3 years running a specialty coffee shop. Different world, same problems: things break, people need help, you figure it out.
+
+Currently into web development, IT operations and a bit of cybersecurity. Azure AZ-900 certified.
+
 
 
 ## 🛠️ Tools & Tech
