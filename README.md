@@ -2,7 +2,7 @@
 
 👩🏻‍💻 IT Support & dev student figuring it out one commit at a time
 
-🎓 Studying DAW & Computer Engineering — both, at the same time
+🎓 Studying DAW & Computer Engineering 
 
 ☕ Spent 3 years running a specialty coffee shop before switching to tech
 
