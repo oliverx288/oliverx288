@@ -1,10 +1,12 @@
 # Hi, I'm Irene!
 
-👩🏻‍💻 Frontend developer in progress. DAW student & Computer Engineering at UOC
+👩🏻‍💻 Studying DAW for the hands-on practice and Computer Engineering for the theory because one without the other isn't enough
 
-🏥 Built TriPage, a free web simulator to practice the Manchester Triage System, based on a 2026 multicenter study across 7 hospitals in Asturias
+🏥 Built **TriPage** a free web simulator to practice the Manchester Triage System, based on a 2026 multicenter study across 7 hospitals in Asturias
 
-💭 Into web development, healthtech and cloud
+🌱 Currently learning React
+
+💭 Into web development, healthtech, cloud and cybersecurity
 
 📍 Based in Barcelona
 
