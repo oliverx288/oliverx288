@@ -1,17 +1,12 @@
-# Hi, I'm Irene!
+👩🏻‍💻 Studying Web Application Development and Computer Engineering, combining development with a deeper understanding of how technology works under the hood.
 
-👩🏻‍💻 Studying DAW for the hands-on practice and Computer Engineering for the theory because one without the other isn't enough
+🏥 Built TriPage, a free web simulator for practising the Manchester Triage System, based on a 2026 multicenter study across 7 hospitals in Asturias, Spain.
 
-🏥 Built **TriPage** a free web simulator to practice the Manchester Triage System, based on a 2026 multicenter study across 7 hospitals in Asturias
+⚙️ Currently learning React, Java, Linux and cloud technologies, with a focus on building reliable and secure applications.
 
-🌱 Currently learning React
-
-💭 Into web development, healthtech, cloud and cybersecurity
+☁️ Interested in Cloud, Cybersecurity and Software Engineering — especially where development, infrastructure and security meet.
 
 📍 Based in Barcelona
-
-
-## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
