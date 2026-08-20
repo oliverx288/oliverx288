@@ -6,7 +6,7 @@ HELLO!
 
 ⚙️ Currently learning React, Java, Linux and cloud technologies, with a focus on building reliable and secure applications.
 
-☁️ Interested in Cloud, Cybersecurity and Software Engineering — especially where development, infrastructure and security meet.
+☁️ Interested in Cloud, Cybersecurity and Software Engineering especially where development, infrastructure and security meet.
 
 📍 Based in Barcelona
 
