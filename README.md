@@ -1,3 +1,5 @@
+HELLO!
+
 👩🏻‍💻 Studying Web Application Development and Computer Engineering, combining development with a deeper understanding of how technology works under the hood.
 
 🏥 Built TriPage, a free web simulator for practising the Manchester Triage System, based on a 2026 multicenter study across 7 hospitals in Asturias, Spain.
